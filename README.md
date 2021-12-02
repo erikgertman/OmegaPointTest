@@ -1,0 +1,2 @@
+# OmegaPointTest
+Programmeringstest för OmegaPoint
